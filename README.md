@@ -15,6 +15,4 @@ m = MobileRobotController()
 m.run()
 
 ### Class Diagram
-![class diagram](./class diagram.PNG)
-
-### Activity Diagram of 
+![class diagram](class-diagram.png)
