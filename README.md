@@ -2,10 +2,6 @@
 
 ### Introduce
 Team project of Software Engineering class in UOS
-Team members are composed of
-- Kim Hyuk Soon
-- Seok Jun Lee
-- Jun Young Heo
 
 ### How to install
 1. Move to the root folder
@@ -18,4 +14,7 @@ from mrc.controller.worldController import MobileRobotController
 m = MobileRobotController()
 m.run()
 
-### Reference
+### Class Diagram
+![class diagram](./class diagram.PNG)
+
+### Activity Diagram of 
