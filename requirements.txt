@@ -1,0 +1,9 @@
+typing
+queue
+enum
+speech_recognition
+tkinter
+PIL
+re
+threading
+time
