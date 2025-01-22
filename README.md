@@ -3,6 +3,9 @@
 ### Introduce
 Team project of Software Engineering class in UOS
 
+## Document
+![Read document](document.pdf)
+
 ### How to install
 
 1.  Move to the root folder
