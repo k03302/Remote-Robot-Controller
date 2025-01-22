@@ -3,7 +3,7 @@
 ### Introduce
 Team project of Software Engineering class in UOS
 
-## Document
+### Document
 ![Read document](document.pdf)
 
 ### How to install
